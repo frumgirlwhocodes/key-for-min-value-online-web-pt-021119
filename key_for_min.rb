@@ -9,6 +9,7 @@ def key_for_min_value(name_hash)
     lowest_key= name
     lowest_value= value 
   end 
+end 
   lowest_key
 end 
-end
+
